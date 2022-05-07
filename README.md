@@ -19,6 +19,9 @@
 - 메인페이지<br/>
 ![메인페이지](https://user-images.githubusercontent.com/92970761/167074660-bd8002da-9e96-41a4-8ffc-b189f46d6c8c.gif)
 
+- 제품상세페이지<br/>
+![상세페이지](https://user-images.githubusercontent.com/102006782/167239491-2bd7b3df-6eb8-424c-8f2c-00dff2a5c2d1.gif)
+
 - 구독페이지<br/>
 ![구독서비스](https://user-images.githubusercontent.com/92970761/167074918-6288c0fd-d97e-4228-a894-60b030bed81c.gif)
 
